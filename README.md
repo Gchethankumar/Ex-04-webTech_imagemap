@@ -205,4 +205,4 @@ Girl friends but not at rush times.
 
 # Result:
 
-Thus, The program for implementing image map is excuted successfully.
+Thus, The program for implementing image map is executed successfully.
