@@ -186,22 +186,23 @@ Girl friends but not at rush times.
 
 # Output:
 
-![output](./outputs/map1.png)
+![map1](https://user-images.githubusercontent.com/118348224/212536243-b0cb0496-4a3f-4669-b9f8-8c2baea78f41.png)
 
-![output](./outputs/out1.png)
+![out4](https://user-images.githubusercontent.com/118348224/212536284-d0ff80f4-58d3-4ace-8319-eb3988cfbd84.png)
 
-![output](./outputs/out2.png)
+![out3](https://user-images.githubusercontent.com/118348224/212536302-f050a3ca-7436-4c18-bb99-3bce4239b939.png)
 
-![output](./outputs/out3.png)
+![out2](https://user-images.githubusercontent.com/118348224/212536309-9798eaf6-bb08-4d28-9465-ff54d0e27c78.png)
 
-![output](./outputs/out4.png)
+![out1](https://user-images.githubusercontent.com/118348224/212536354-31b26e92-74f8-464e-a2e7-00a135f8e86d.png)
 
-![output](./outputs/out5.png)
+![out5](https://user-images.githubusercontent.com/118348224/212536358-c3a167fd-2557-497f-afbd-e3678f3c1651.png)
 
 ## HTML Validator
 
-![HTML Validator](./outputs/valid.png)
+![valid](https://user-images.githubusercontent.com/118348224/212536365-787e2528-0a0e-4caf-b0e4-be45f1a61b53.png)
+
 
 # Result:
 
-The program for implementing image map is excuted successfully.
+Thus, The program for implementing image map is excuted successfully.
